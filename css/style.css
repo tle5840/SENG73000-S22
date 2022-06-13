@@ -1,0 +1,62 @@
+body{
+    background-color: blanchedalmond;
+}
+.contact{
+    background-color: brown;
+    border-radius: 20px;
+    color:white;
+    margin-left: 10px;
+    padding: 3px 10px;
+}
+.submit{
+    background-color: brown;
+    border-radius: 20px;
+    color:white;
+   float: right;
+   margin-right: -30px;
+    padding: 3px 10px;
+}
+
+
+.submit:focus {     
+    background-color:blue;    
+}
+.submit:hover{
+    background-color: blue;
+    border-radius: 20px;
+    color:white;
+   float: right;
+   margin-right: -30px;
+    padding: 3px 10px;
+}
+label{
+    font-weight: 600;
+   width: 100px;
+}
+.input{
+    width: 250px;
+}
+form{
+    border: 1px solid;
+    width: 360px;
+    padding: 20px;
+    margin-top: -12px;
+}
+.button-div{
+    width: 360px;
+}
+.input-div{
+    display: flex;
+    margin-top: 10px;
+}
+p{
+    font-weight: 600;
+}
+textarea{
+    background-color: transparent;
+}
+.image-textarea{
+    margin-top: -120px;
+    position:absolute;
+    margin-left: 10px;
+}
