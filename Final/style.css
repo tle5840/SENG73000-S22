@@ -1,0 +1,32 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.container-fluid{
+	padding-left: 0px;
+	padding-right: 0px;
+	border-radius: 0px;
+}
+.navbar{
+	border-radius: 0px;
+}
+.navbar-right{
+	margin-right: 0px;
+}
+.row{
+	margin-right: 0px;
+	margin-left: 0px;
+}
+.panel-heading{
+	width: 100px;
+	position: absolute;
+	top: -30px;
+	left: 28px;
+	padding: 5px;
+	background-color: #4b4bf0  !important;
+	color: white !important;
+	border: none;
+}
+.panel-body{
+	/*border-top: 1px solid #ddd;*/
+}
